@@ -49,7 +49,7 @@ antiCP2.txt is the main ACP dataset for training and testing NeXt4ACP.
 mACP.txt is the ACP external testing dataset for testing NeXt4ACP's generalization.
 
 ## Codes
-
+The description can be find in each files fold
 
 ## Contact
 If you have any questions, comments, or would like to report a bug, please file a Github issue or contact me.
